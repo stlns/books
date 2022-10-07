@@ -1,7 +1,7 @@
 # Books
 Collection of various programming books
 ## List
-k&r.pdf - The C Programming Language 2nd Edition
+k&r.pdf - The C Programming Language 2nd Edition \n
 compilers.pdf - Dragon Book Compilers Principle Techniques and Tools 2nd Edtion
 gdi/gdiplus.pdf - Windows Graphics Device Interface Documentation
 lets_build_a_compiler.pdf - Compiler Building Documentation by Jack Crenshaw
